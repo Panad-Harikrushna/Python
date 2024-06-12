@@ -1,7 +1,8 @@
 #  break the loop if number a number is greater than 15
 
-''' In this program, for loop iterates over each number from a list.
-Next, the if statement checks if the current is greater than 15. If yes, then break the loop else print the current number
+'''	 In this program, for loop iterates over each number from a list.
+	Next, the if statement checks if the current is greater than 15.
+	If yes, then break the loop else print the current number
 '''
 
 ##########################################################################
